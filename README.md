@@ -61,3 +61,17 @@ conda activate ey-challenge
 
 ## Download dataset
 1. Our submitted `content-package` can be found in this [link](https://drive.google.com/drive/folders/1KI9Fh0qCpzWMw-Cf9eWf0-LAyC9nIq1n?usp=sharing). You can find all of our datasets here as well
+
+## Cite this repository
+
+```
+@INPROCEEDINGS{10174362,
+  author={Wong, Yi Jie and Khor, Yin-Loon and Liu, Ziwei},
+  booktitle={}, 
+  title={Automating Coastal Vulnerability Assessment: AI-Driven Geospatial Analysis via Building Damage Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  doi={https://doi.org/10.36227/techrxiv.172963135.56918790/v1}}
+```
